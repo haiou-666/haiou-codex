@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "product_from": "00_root.json",
+  "product": "https://www.ozon.ru/product/ogurtsy-luhovitskie-500-700-g-3761197655/",
+  "click": "ok",
+  "inflight_fetch": [
+   200,
+   82989,
+   "{\"layout\":[{\"component\":\"wallpaper\",\"params\":\"{\\\"bgColor\\\":\\\"#f5f7fa\\\",\\\"positionX\\\":\\\"center\\\",\\\"positionY\\\":\\\"top\\\"}\","
+  ]
+ },
+ "entrypoint": [
+  {
+   "url": "https://www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=https%3A%2F%2Fozon.ru%2Fnotification%2Fcookies_acceptance%3Fref_page_type%3Dcategory",
+   "method": "GET",
+   "headers": {
+    "x-o3-parent-requestid": "d67ca9ad899c76eeb8bbefd0733169e7",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://www.ozon.ru/category/aksessuary-7697/?__rr=1&abt_att=1",
+    "accept-language": "ru-RU",
+    "x-o3-manifest-version": "frontend-ozon-ru:51972759693b18985fb38e04074bba816a4837b0,checkout-render-api:96f60853ce7f0a870a0f3838b362c52c96840b70,search-render-api:4e2816c3e9c7171455eeef0ad38123ebbecb3490,fav-render-api:8e72ad8986f3597f4f91143bd826d086ee148f7a,sf-render-api:1d50b65d3319e8ef104e821e9ba61526da8f6ad7,rtb-render-api:193b3a7fc9b44a95c7f4b82039f99607520dbfd0",
+    "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+    "x-page-previous": "",
+    "x-o3-app-version": "release_3-10-2026_51972759",
+    "x-page-view-id": "aeb20b2c-7f17-40d4-625d-2e6e23b307f8",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "accept": "application/json",
+    "content-type": "application/json",
+    "x-o3-app-name": "dweb_client"
+   },
+   "post": ""
+  }
+ ],
+ "replay": []
+}
